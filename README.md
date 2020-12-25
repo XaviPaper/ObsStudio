@@ -18,6 +18,10 @@ Yo he descargado a día de hoy la última versión: 0.2.5.1 (9 de octubre de 202
 Una vez descargado el zip, descomprimirlo y copiar todo en contenido a C:\Program Files\obs-studio\
 Ya se puede abrir el OBS Studio y aparecerá un nuevo panel llamado "Salida Múltiple"
 
+## 3. Instalar plugin Move Transtion
+https://obsproject.com/forum/resources/move-transition.913/
+v2.2.1
+
 ## 3. Configurar el OBS Studio
 Pulsar el botón "Modo de estudio" para ver la vista prévia.
 
