@@ -18,10 +18,6 @@ Yo he descargado a día de hoy la última versión: 0.2.5.1 (9 de octubre de 202
 Una vez descargado el zip, descomprimirlo y copiar todo en contenido a C:\Program Files\obs-studio\
 Ya se puede abrir el OBS Studio y aparecerá un nuevo panel llamado "Salida Múltiple"
 
-## 3. Instalar plugin Move Transtion
-https://obsproject.com/forum/resources/move-transition.913/
-v2.2.1
-
 ## 3. Configurar el OBS Studio
 Pulsar el botón "Modo de estudio" para ver la vista prévia.
 
@@ -34,9 +30,17 @@ Entrar en Ajustes/Video:
 - Poner ambas resoluciones a 1920x1080
 - Poner FPS a 60
 
-## 4. Instalar plugin para IP Camaras
+## 4. Instalar plugin Move Transtion
+https://obsproject.com/forum/resources/move-transition.913/
+v2.2.1
 
-## 5. Instalar app y plugin para capturar video de móvil
+## 5. Instalar Salida NDI para ppt
+https://github.com/ykhwong/ppt-ndi
+v1.0.4
+
+## 6. Instalar plugin para IP Camaras
+
+## 7. Instalar app y plugin para capturar video de móvil
 
 ### GStreamer runtime
 https://gstreamer.freedesktop.org/download/
@@ -57,7 +61,7 @@ https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam
 DroidCam Wireless Webcam
 https://apps.apple.com/us/app/droidcam-wireless-webcam/id1510258102
 
-## 6. Instalar Macro Deck
+## 8. Instalar Macro Deck
 
 ### Windows Server App
 MacroDeck Server
